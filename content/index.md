@@ -1,6 +1,4 @@
 ---
-title: Welcome to Quartz
+title: Plato's Cave and the Promethean Desire
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Roaming the streets of Doskvol, 
